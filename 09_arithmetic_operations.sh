@@ -15,3 +15,7 @@ echo "addition $add"
 
 add2=$[x+y]
 echo "add2 $add2"
+
+# INCREMENT OPERATION 
+let x++
+echo "X incremented by 1 $x"
